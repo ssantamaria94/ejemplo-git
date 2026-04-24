@@ -1,2 +1,2 @@
 # Mi primer README
-Esto es un ejemplo práctico de git para 1º de DAM
+Estamos en directo y vamos a resolver un conflicto :)

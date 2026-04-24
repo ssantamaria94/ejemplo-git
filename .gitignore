@@ -1,0 +1,14 @@
+# Ignorar archivos de compilación
+*.class
+# Ignorar directorios de compilación
+/bin/
+/out/
+# Ignorar archivos temporales de IDEs
+.idea/
+*.iml
+.vscode/
+# Ignorar archivos del sistema operativo
+Thumbs.db
+.DS_Store
+# Ignorar logs
+*.log
